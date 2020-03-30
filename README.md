@@ -1,13 +1,13 @@
-# jambox
+# jambox-ui
 
 > styled components UI library
 
-[![NPM](https://img.shields.io/npm/v/jambox.svg)](https://www.npmjs.com/package/jambox) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![NPM](https://img.shields.io/npm/v/jambox-ui.svg)](https://www.npmjs.com/package/jambox-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 ## Install
 
 ```bash
-npm install --save jambox
+npm install --save jambox-ui
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install --save jambox
 ```tsx
 import * as React from 'react'
 
-import MyComponent from 'jambox'
+import MyComponent from 'jambox-ui'
 
 class Example extends React.Component {
   render () {
